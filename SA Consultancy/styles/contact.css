@@ -1,0 +1,20 @@
+img{
+    width: 500px;
+    border-radius: 5px;
+}
+
+th{
+    padding: 20px;
+}
+
+#btn-send{
+    position: relative;
+    left: 40%;
+}
+.icons-contact{
+    position: relative;
+    padding: 0px 130px;
+}
+.color-font{
+    color: grey;
+}
